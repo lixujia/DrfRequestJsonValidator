@@ -11,6 +11,7 @@ setuptools.setup(
     author='Li Xujia',
     author_email='lixujia.cn@gmail.com',
     description="A package use for validate json payload with jsonschema",
+    url="https://github.com/lixujia/DrfRequestJsonValidator",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(exclude=['setup.py', 'requirements.txt']),
