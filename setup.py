@@ -7,7 +7,7 @@ with open('README.md', 'r') as fp:
 
 setuptools.setup(
     name="DrfRequestJsonValidator",
-    version='0.0.1',
+    version='0.0.2',
     author='Li Xujia',
     author_email='lixujia.cn@gmail.com',
     description="A package use for validate json payload with jsonschema",
